@@ -8,12 +8,15 @@ body,p,a{
 a{
     font-weight: 500;
 }
+p{
+    font-size: 1rem;
+}
 /* Global utilies end */
 
 /* header and navbar star */
-#home{
+header{
     background-color:#264653; 
-    height: 698px;
+    height: auto;
 }
 .navbar .nav-link{
     color: white;
@@ -36,7 +39,7 @@ a{
 
 .navbar .nav-link:hover{
     color: black;
-    background-color: white;
+   
 }
 
 #login-btn{
@@ -46,6 +49,18 @@ a{
 }
 
 /* header and navbar end */
+
+
+/* Landing Banner area start */
+
+.modals-btn .purchase-btn{
+    padding: 10px 45px;
+    background-color:#E76F51 ;
+    color: white;
+}
+.landing-banner p{
+    font-weight: 300;
+}
 
 
 
