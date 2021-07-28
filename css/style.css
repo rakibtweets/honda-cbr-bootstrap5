@@ -1,0 +1,52 @@
+/* Global uitilities */
+*{
+    box-sizing: border-box;
+}
+body,p,a{
+    font-family: 'Poppins', sans-serif;
+}
+a{
+    font-weight: 500;
+}
+/* Global utilies end */
+
+/* header and navbar star */
+#home{
+    background-color:#264653; 
+    height: 698px;
+}
+.navbar .nav-link{
+    color: white;
+    padding: 5 15px;
+    border-radius: 50px 50px;
+    margin: 0 10px;
+    transition: .5s;
+}
+.brand-name{
+    color: white ;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+.brand-name:hover{
+    color: white ;
+    transform: scale(1.1);
+    transition: transform .5s;
+   
+}
+
+.navbar .nav-link:hover{
+    color: black;
+    background-color: white;
+}
+
+#login-btn{
+    margin-left: 5em;
+    background: #E76F51;
+    border-radius: 5px;
+}
+
+/* header and navbar end */
+
+
+
+
