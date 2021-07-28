@@ -102,6 +102,45 @@ header{
     color: white;
 }
 
+/* Latest news section end */
+
+/* Clients section start */
+.happy-title{
+    color: #252B42;
+
+}
+.happy-title span{
+    color: #E76F51;
+}
+.fas.filled{
+    color: #E77C40;
+}
+.far.empty.empty{
+    color: #E77C40;
+
+}
+.client-name{
+    color: #23A6F0;
+
+}
+.profession{
+    color: #252B42;
+}
+.client-bio{
+    color: #6C6C6C;
+}
+
+#clients .card:hover{
+
+    transform: scale(1.1);
+    transition:  transform .5s ease-in;
+    color: white;    
+
+}
+
+
+
+
 
 
 
