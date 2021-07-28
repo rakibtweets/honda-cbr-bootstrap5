@@ -80,7 +80,27 @@ header{
 /* Feature bikes End */
 
 
+/* Latest News section start */
 
+.card{
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 5px;
+    padding: 1em;
+}
+.card-btn{
+   
+    border: 1px solid #E76F51;
+    box-sizing: border-box;
+    border-radius: 5px;
+    color: #E76F51;
+    padding: 10px 15px;
+    font-size: 18px;
+}
+.card-btn:hover{
+    background-color: #E76F51;
+    color: white;
+}
 
 
 
