@@ -61,6 +61,26 @@ header{
 .landing-banner p{
     font-weight: 300;
 }
+/* Landing area end */
+
+/* Fetued bikes start */
+
+.fetured-text{
+    color: #E76F51;
+}
+.bike-img .grayscale{
+    filter: grayscale(100%);
+}
+.bike-img img:hover{
+    transform: scale(1.1);
+    transition: transform .5s ease-in;
+    
+}
+
+/* Feature bikes End */
+
+
+
 
 
 
