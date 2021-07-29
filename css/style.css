@@ -54,7 +54,8 @@ header{
 
 /* Landing Banner area start */
 
-.modals-btn .purchase-btn{
+.modals-btn .purchase-btn,
+.buy-btn{
     padding: 10px 45px;
     background-color:#E76F51 ;
     color: white;
@@ -166,6 +167,18 @@ header{
     color: #383838;
 
 }
+
+
+/* Honda bikes star */
+.honda-bikes{
+    background-color: #f8eaf1c7;
+    height: auto;
+}
+.right-arrow, 
+.left-arrow{
+    color: rgba(0, 0, 0, 0.185);
+}
+
 
 
 
