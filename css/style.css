@@ -1,5 +1,7 @@
 /* Global uitilities */
 *{
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 body,p,a{
@@ -194,6 +196,14 @@ header{
     background-color:#D21A1F ;
     color: white;
 
+}
+/* sign form end */
+
+/* footer start */
+
+#footer{
+    margin-top: 150px;
+    background-color: #0B0D17;
 }
 
 
