@@ -190,9 +190,11 @@ header{
     height: 90px;
     
 }
-/* #headingFive .blog-sign-btn{
+.blog-sign-btn:not(.collapsed){
+    background-color:#D21A1F ;
     color: white;
-} */
+
+}
 
 
 
