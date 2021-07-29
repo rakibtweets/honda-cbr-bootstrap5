@@ -178,6 +178,21 @@ header{
 .left-arrow{
     color: rgba(0, 0, 0, 0.329);
 }
+/* Honda bike End */
+
+/* sign up section */
+.blog-sign-btn{
+    background-color: #D21A1F;
+    font-size: 1.5rem;
+    font-weight: bold;
+    letter-spacing: 1.1;
+    color: white;
+    height: 90px;
+    
+}
+/* #headingFive .blog-sign-btn{
+    color: white;
+} */
 
 
 
