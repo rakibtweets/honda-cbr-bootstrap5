@@ -40,8 +40,10 @@ header{
    
 }
 
-.navbar .nav-link:hover{
+.navbar-nav .nav-link:hover{
     color: black;
+    background-color: white;
+    
    
 }
 
@@ -49,6 +51,8 @@ header{
     margin-left: 5em;
     background: #E76F51;
     border-radius: 5px;
+    outline: none;
+    padding: 10px 25px;
 }
 
 /* header and navbar end */
